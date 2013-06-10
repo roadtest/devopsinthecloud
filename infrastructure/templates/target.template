@@ -11,7 +11,7 @@
       "Default" : "ditc",
       "MinLength": "1",
       "MaxLength": "64",
-      "AllowedPattern" : "[a-zA-Z0-9]*",
+      "AllowedPattern" : "[_-. a-zA-Z0-9]*",
       "ConstraintDescription" : "can contain only alphanumeric characters, spaces, dashes and underscores - this is from target template."
     },
 
